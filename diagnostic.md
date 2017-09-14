@@ -28,17 +28,15 @@ roman: _
 
 1. What is your operating system?
 ```
-I use Arch Linux as my operating system. I install my operating system through the command line so I know how to use it.
+I use Arch Linux as my operating system. I install my operating system through the command line 
+so it's second nature.
 ```
 
 2. What command(s) do you enter to show the files contained within `alpha`?
 ```
-If alpha is a directory I would type:
-
 l alpha/
 
 Because I have aliased l to ls -a in my fish shell config.
-
 ```
 
 3. What command(s) do you enter to move into the `beta` folder?
